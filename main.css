@@ -4,7 +4,6 @@ body {
     height: 100vh;
     font-family: 'Open Sans', Helvetica, sans-serif;
     font-size: 24px;
-    cursor: url(./cursors/cursor2.png), auto;
 }
 
 .container {
