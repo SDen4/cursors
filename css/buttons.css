@@ -1,0 +1,12 @@
+.button {
+    background-color: darkorange;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    transition: .5s;
+}
+
+.button:hover {
+    background-color: orange;
+}

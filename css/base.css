@@ -6,7 +6,7 @@ body {
     font-size: 24px;
 }
 
-.container {
+.main {
     width: 100%;
     height: 100%;
     display: flex;
@@ -15,7 +15,7 @@ body {
 }
 
 .block {
-    min-width: 50%;
+    min-width: 25%;
     min-height: 50%;
     margin: -1px;
     border: 1px solid black;
@@ -35,12 +35,12 @@ body {
     cursor: auto;
 }
 
-.block2:hover{
-    cursor: url(./cursors/cursor2.png), auto;
+.block2:hover {
+    cursor: not-allowed;
 }
 
-.block3:hover {
-    cursor: not-allowed;
+.block3:hover{
+    cursor: url(../cursors/cursor2.png), auto;
 }
 
 .block4:hover {
