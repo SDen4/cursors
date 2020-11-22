@@ -5,6 +5,7 @@
     text-decoration: none;
     padding: 15px 30px;
     transition: .5s;
+    text-align: center;
 }
 
 .button:hover {
