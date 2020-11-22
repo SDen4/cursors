@@ -1,4 +1,4 @@
-const cursorDot = document.querySelector('.cursor');
+const cursorDot = document.querySelector('.customCursor');
 let clientX;
 let clientY;
 
