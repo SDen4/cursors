@@ -21,7 +21,6 @@ body {
     border: 1px solid black;
     background-color: #C0C0C0;
     transition: .3s;
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -31,18 +30,10 @@ body {
     background-color: lightgray;
 }
 
-.block1:hover {
-    cursor: auto;
-}
-
-.block2:hover {
-    cursor: not-allowed;
-}
-
-.block3:hover{
+.block_png:hover{
     cursor: url(../cursors/cursor2.png), auto;
 }
 
-.block4:hover {
+.block_png_web:hover {
     cursor: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/9729/Untitled.png), auto;
 }
