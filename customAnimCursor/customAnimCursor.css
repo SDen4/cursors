@@ -15,8 +15,6 @@
 .customAnimCursor:after {
     content: '';
     display: block;
-    width: 25px;
-    height: 25px;
     border-radius: 50%;
     border: 2px solid #ff0000;
     left: -12px;
